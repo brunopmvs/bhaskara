@@ -64,9 +64,6 @@ while x < 10:
     xVar.append(x)
     x += 0.1
 
-
-
-
 plt.plot(xVar, yVar)
 plt.xlabel("X")
 plt.ylabel("Y")
